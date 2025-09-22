@@ -1,0 +1,773 @@
+{
+  "lake": {
+    "number": "1",
+    "name": "Озеро",
+    "price": "0",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.5",
+      "goldCrucian": "0.5",
+      "silverCrucian1": "0.2",
+      "goldCrucian2": "0.8",
+      "silverCrucian3": "0.2",
+      "goldCrucian4": "0.8",
+      "silverCrucian5": "0.2",
+      "goldCrucian6": "0.8",
+      "silverCrucian7": "0.2",
+      "goldCrucian8": "0.8",
+      "silverCrucian9": "0.2",
+      "goldCrucian10": "0.8",
+      "silverCrucian11": "0.2",
+      "goldCrucian12": "0.8",
+      "silverCrucian13": "0.2",
+      "goldCrucian14": "0.8",
+      "silverCrucian15": "0.2",
+      "goldCrucian16": "0.8",
+      "silverCrucian17": "0.2",
+      "goldCrucian18": "0.8",
+      "silverCrucian19": "0.2",
+      "goldCrucian20": "0.8",
+      "silverCrucian21": "0.2",
+      "goldCrucian22": "0.8",
+      "silverCrucian23": "0.2",
+      "goldCrucian24": "0.8",
+      "silverCrucian25": "0.2",
+      "goldCrucian26": "0.8",
+      "silverCrucian27": "0.2",
+      "goldCrucian28": "0.8",
+      "silverCrucian29": "0.2",
+      "goldCrucian30": "0.8",
+      "silverCrucian31": "0.2",
+      "goldCrucian32": "0.8",
+      "silverCrucian33": "0.2",
+      "goldCrucian34": "0.8",
+      "silverCrucian35": "0.2",
+      "goldCrucian36": "0.8",
+      "silverCrucian37": "0.2",
+      "goldCrucian38": "0.8",
+      "silverCrucian39": "0.2",
+      "goldCrucian40": "0.8",
+      "silverCrucian41": "0.2",
+      "goldCrucian42": "0.8",
+      "silverCrucian43": "0.2",
+      "goldCrucian44": "0.8"
+    }
+  },
+  "penis": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+  }
+},
+  "penis1": {
+    "number": "2",
+    "name": "Залупозеро1",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis2": {
+    "number": "2",
+    "name": "Залупозеро2",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis3": {
+    "number": "2",
+    "name": "Залупозеро3",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis4": {
+    "number": "2",
+    "name": "Залупозеро4",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis5": {
+    "number": "2",
+    "name": "Залупозеро5",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis6": {
+    "number": "2",
+    "name": "Залупозеро6",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis7": {
+  "number": "2",
+  "name": "Залупозеро7",
+  "price": "500000",
+  "x": "0",
+  "y": "100",
+  "z": "0",
+  "material": "GRASS",
+  "chanceToCatch": {
+    "silverCrucian": "0.2",
+    "goldCrucian": "0.7",
+    "silverCrucian1": "0.5"
+  }
+},
+  "penis8": {
+  "number": "2",
+  "name": "Залупозеро8",
+  "price": "500000",
+  "x": "0",
+  "y": "100",
+  "z": "0",
+  "material": "GRASS",
+  "chanceToCatch": {
+    "silverCrucian": "0.2",
+    "goldCrucian": "0.7",
+    "silverCrucian1": "0.5"
+  }
+},
+  "penis9": {
+    "number": "2",
+    "name": "Залупозеро9",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis10": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis11": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis12": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis13": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis14": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis15": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis16": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis17": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis18": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis19": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis20": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis21": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis22": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis23": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis24": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis25": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis26": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis27": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis28": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis29": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis30": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis31": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis32": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis33": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis34": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis35": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis36": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis37": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis38": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis39": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis40": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis41": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis42": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis43": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis44": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis45": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis46": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis47": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis48": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis49": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  },
+  "penis50": {
+    "number": "2",
+    "name": "Залупозеро",
+    "price": "500000",
+    "x": "0",
+    "y": "100",
+    "z": "0",
+    "material": "GRASS",
+    "chanceToCatch": {
+      "silverCrucian": "0.2",
+      "goldCrucian": "0.7",
+      "silverCrucian1": "0.5"
+    }
+  }
+}

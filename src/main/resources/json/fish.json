@@ -1,0 +1,726 @@
+{
+  "silverCrucian": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian1": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian2": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian3": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian4": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian5": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian6": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian7": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian8": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian9": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian10": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian11": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian12": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian13": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian14": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian15": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian16": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian17": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian18": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian19": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian20": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian21": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian22": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian23": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian24": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian25": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian26": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian27": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian28": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian29": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian30": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian31": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian32": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian33": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian34": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian35": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian36": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian37": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian38": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian39": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian40": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian41": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian42": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian43": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian44": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian45": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian46": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian47": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian48": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian49": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian50": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian51": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian52": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian53": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian54": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "goldCrucian55": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian56": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian57": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian58": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian59": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian60": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian61": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian62": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian63": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian64": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian65": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  },
+  "silverCrucian66": {
+    "name": "Серебрянный карась",
+    "minWeight": "400",
+    "maxWeight": "2000",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "0.5",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+
+  },
+  "goldCrucian67": {
+    "name": "Золотистый карась",
+    "minWeight": "450",
+    "maxWeight": "2400",
+    "minLength": "20",
+    "maxLength": "60",
+    "price": "1",
+    "experience": "0.1",
+    "material": "CLAY_BALL"
+  }
+}

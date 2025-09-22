@@ -1,0 +1,17 @@
+name: FishingSimulator
+version: '${project.version}'
+main: me.hilden.fishingsimulator.FishingSimulator
+load: STARTUP
+commands:
+  upgrade:
+    aliases: u
+  sellFish:
+    aliases: sf
+  mainMenu:
+    aliases: [mm, menu, main]
+  locations:
+    aliases: [l, loc, location]
+  fish:
+    aliases: [f, fishes]
+  faq:
+    aliases: frequentlyaskedquestions

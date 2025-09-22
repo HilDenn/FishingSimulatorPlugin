@@ -1,0 +1,138 @@
+{
+  "hook": {
+    "0": {
+      "price": "0",
+      "upgradeMultiplier": "0",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "1": {
+      "price": "10",
+      "upgradeMultiplier": "10",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "2": {
+      "price": "20",
+      "upgradeMultiplier": "20",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "3": {
+      "price": "30",
+      "upgradeMultiplier": "30",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "4": {
+      "price": "4000",
+      "upgradeMultiplier": "100",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "5": {
+      "price": "180000",
+      "upgradeMultiplier": "1000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "6": {
+      "price": "502",
+      "upgradeMultiplier": "30000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "7": {
+      "price": "20",
+      "upgradeMultiplier": "20",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "8": {
+      "price": "30",
+      "upgradeMultiplier": "30",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "9": {
+      "price": "10",
+      "upgradeMultiplier": "10",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "10": {
+      "price": "7777",
+      "upgradeMultiplier": "20",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    }
+  },
+  "line": {
+    "0": {
+      "price": "0",
+      "upgradeMultiplier": "0",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "1": {
+      "price": "10",
+      "upgradeMultiplier": "1000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "2": {
+      "price": "20",
+      "upgradeMultiplier": "2000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "3": {
+      "price": "30",
+      "upgradeMultiplier": "3000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "4": {
+      "price": "4000",
+      "upgradeMultiplier": "10000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "5": {
+      "price": "180000",
+      "upgradeMultiplier": "100000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "6": {
+      "price": "502",
+      "upgradeMultiplier": "30000000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "7": {
+      "price": "20",
+      "upgradeMultiplier": "20000000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "8": {
+      "price": "30",
+      "upgradeMultiplier": "3000000000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "9": {
+      "price": "10",
+      "upgradeMultiplier": "1000000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    },
+    "10": {
+      "price": "7777",
+      "upgradeMultiplier": "2000000",
+      "levelNeeded": "0",
+      "material": "CLAY"
+    }
+  }
+}
